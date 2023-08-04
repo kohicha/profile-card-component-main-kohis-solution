@@ -8,3 +8,10 @@
     font-family: KumbhSans;
     src: url(design/KumbhSans-VariableFont_YOPQ\,wght.ttf) format("truetype");
 }
+
+body {
+    background: url(./images/bg-pattern-top.svg), url(./images/bg-pattern-bottom.svg);
+    background-position: right 52vw bottom 35vh, left 48vw top 52vh;
+    background-repeat: no-repeat, no-repeat;
+    background-color: hsl(185deg, 75%, 39%);
+  }
