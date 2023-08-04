@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-Site Link: https://3-column-preview-card-component-main-kohis-solution.vercel.app
+Site Link: https://profile-card-component-main-kohis-solution.vercel.app
 
 ### Built with
 
